@@ -1,0 +1,14 @@
+Tujuannya agar file hasil metamorfosis tidak ikut terunggah ke GitHub.
+
+---
+
+## **PASTIKAN ORANG LAIN BISA MENJALANKAN**
+- File `morpheus.py` yang kamu upload tidak butuh dependensi khusus (hanya library standar Python).
+- Jika mereka punya Node.js, metamorfosis ke JavaScript akan terjadi otomatis. Jika tidak, program tetap membuat file `morpheus.js` dan menampilkan pesan bahwa Node tidak ditemukan.
+- Tidak perlu konfigurasi tambahan.
+
+---
+
+Sekarang repository kamu siap dibagikan. Orang lain tinggal klik tombol **"Code"** hijau, lalu **"Download ZIP"**, ekstrak, dan jalankan `python3 morpheus.py`. Mudah, kan?
+
+Kalau ada yang error saat upload atau kamu ingin menambahkan penjelasan lain, bilang saja.
